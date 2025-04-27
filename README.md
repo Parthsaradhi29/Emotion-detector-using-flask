@@ -25,10 +25,10 @@ Task 8: Run static code analysis]
 
 ## Features
 
-Simple web interface for text input
-Real-time emotion analysis
-Visual display of emotion scores
-Identification of dominant emotion
+-Simple web interface for text input
+-Real-time emotion analysis
+-Visual display of emotion scores
+-Identification of dominant emotion
 
 ## Technology Stack
 
