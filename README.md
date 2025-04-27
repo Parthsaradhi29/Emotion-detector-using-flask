@@ -21,3 +21,17 @@ Task 5: Run Unit tests on your application
 Task 6: Web deployment of the application using Flask
 Task 7: Incorporate error handling
 Task 8: Run static code analysis]
+
+
+#Features
+
+Simple web interface for text input
+Real-time emotion analysis
+Visual display of emotion scores
+Identification of dominant emotion
+
+#Technology Stack
+
+Backend: Python, Flask
+Frontend: HTML, CSS, JavaScript
+API: IBM Watson NLP Service
