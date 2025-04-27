@@ -33,5 +33,7 @@ Identification of dominant emotion
 ## Technology Stack
 
 __Backend__: Python, Flask
+
 __Frontend__: HTML, CSS, JavaScript
+
 __API__: IBM Watson NLP Service
